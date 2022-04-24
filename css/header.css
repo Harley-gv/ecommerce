@@ -33,6 +33,17 @@
     position: fixed;
     top: 0;
     right: 0;
-    width: 360px;
+    width: 320px;
     min-height: 100vh;
+    padding: 20px;
+    background-color: var(--bg-color);
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+.cart-title {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 2rem;
+     
 }
