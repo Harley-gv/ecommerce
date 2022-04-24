@@ -27,3 +27,6 @@ body {
     color: var(--text-color);
 }
 
+section {
+    padding: 5rem 0 3rem;
+}
